@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: rgb(88, 84, 84);
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+.dji {
+    background-color: rgb(0, 0, 0);
+}
+
+.container {
+    background-image: url(/image/fpv.jpg);
+    background-size: cover;
+    width: 80%;
+    height: 500px;
+    margin-top: 50px;
+    display: fixed;
+    border: 1px solid rgb(46, 9, 19);
+    border-radius: 10px;
+}
+
+.heading {
+    font-size: 70px;
+    color: rgb(22, 20, 20);
+    margin-top: 100px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    font-family: 'Albert Sans', sans-serif;
+}
+
+.heading-two {
+    margin-left: 180px;
+}
+
+.second-section {
+    justify-content: center;
+    text-align: center;
+    color: rgb(154, 156, 158);
+    font-family: sans-serif;
+    margin-bottom: 100px;
+}
+
+.second-section p {
+    font-size: 10px;
+}
+
+hr {
+    width: 50%;
+    margin-left: 270px;
+    ;
+}
+
+.second-section button {
+    background-color: rgb(188, 16, 59);
+    font-family: sans-serif;
+    color: aliceblue;
+}
