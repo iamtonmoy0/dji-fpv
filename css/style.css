@@ -16,7 +16,7 @@
 }
 
 .container {
-    background-image: url("image\fpv.jpg");
+    background-image: url("image/fpv.jpg");
     background-size: cover;
     width: 80%;
     height: 500px;
